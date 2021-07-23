@@ -8,7 +8,6 @@
         <hr>
 
         <form action="" @submit.prevent="onSave">
-
             <b-form-group label="Subject Title">
                 <b-form-input v-model="subject.subj_title"></b-form-input>
             </b-form-group>
@@ -28,7 +27,6 @@ export default {
     props:{
         subject:{}
     },
-
     methods: {
         async onSave() {
             try {

@@ -9,5 +9,6 @@
                 <tr><th>Email</th><td>{{$auth.user.email}}</td></tr>
             </table>
         </div>
+        <Footer />
     </div>
 </template>

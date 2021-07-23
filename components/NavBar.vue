@@ -4,7 +4,7 @@
             <b-navbar-toggle target="nav-text-collapse"></b-navbar-toggle>
 
             <b-navbar-brand href="/">
-                Authentication Project
+                FULLSTACKPROJECT
             </b-navbar-brand>
             
             <b-collapse id="nav-collapse" is-nav>

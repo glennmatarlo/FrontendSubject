@@ -78,7 +78,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseUrl: 'http://127.0.0.1:8000'
+    baseUrl: 'https://lentrix.tk/gdm'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
